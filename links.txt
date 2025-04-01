@@ -1,0 +1,13 @@
+Found 10 links:
+
+1. https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/all/apic-rest-api-configuration-guide/cisco-apic-rest-api-configuration-guide-42x-and-later/m_using_the_rest_api.html
+2. https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/all/apic-rest-api-configuration-guide/cisco-apic-rest-api-configuration-guide-42x-and-later/m_using_the_rest_api.html#fw-content
+3. https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/all/apic-rest-api-configuration-guide/cisco-apic-rest-api-configuration-guide-42x-and-later/m_using_the_rest_api.html#fw-footer-v2
+4. https://www.cisco.com/site/us/en/index.html
+5. https://www.cisco.com/site/us/en/index.html#fw-c-content
+6. https://www.cisco.com/site/us/en/index.html#fw-c-header__button--search
+7. https://www.cisco.com/site/us/en/index.html#fw-c-footer
+8. https://www.cisco.com
+9. https://www.cisco.com#fw-c-content
+10. https://www.cisco.com#fw-c-header__button--search
+

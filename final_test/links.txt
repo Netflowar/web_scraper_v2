@@ -1,0 +1,17 @@
+Found 15 links:
+
+1. https://docs.python.org/3/tutorial/
+2. https://www.python.org/
+3. https://www.python.org/#content
+4. https://www.python.org/#python-network
+5. https://www.python.org/psf/
+6. https://docs.python.org
+7. https://pypi.org/
+8. https://www.python.org/jobs/
+9. https://www.python.org/community/
+10. https://www.python.org/#top
+11. https://psfmember.org/civicrm/contribute/transact
+12. https://www.python.org/#site-map
+13. https://www.linkedin.com/company/python-software-foundation/
+14. https://fosstodon.org/@ThePSF
+15. https://www.python.org/community/irc/
