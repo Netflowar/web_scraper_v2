@@ -335,13 +335,7 @@ class ScraperGUI:
             # Save the content
             saved_file = self.scraper.save_text_content(output_path)
             
-            # Also save links to a separate file
-            links_file = os.path.join(output_dir, "links.txt")
-            with open(links_file, "w", encoding="utf-8") as f:
-                links_text = self.links_text.get(1.0, tk.END)
-                f.write(links_text)
-            
-            messagebox.showinfo("Success", f"Content saved to {saved_file}\nLinks saved to {links_file}")
+            messagebox.showinfo("Success", f"Content saved to {saved_file}")
             
         except Exception as e:
             messagebox.showerror("Error", f"Error saving content: {e}")
