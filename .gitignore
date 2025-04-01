@@ -63,3 +63,8 @@ coverage.xml
 *.swp
 *.swo
 .DS_Store
+
+# Scraped content files
+*.txt
+# Except requirements.txt
+!requirements.txt

@@ -1,110 +1,159 @@
 # Web Link Scraper
 
-A Python-based tool with a graphical user interface (GUI) for scraping web pages for links recursively. This tool allows you to enter a URL, set a maximum number of links to scrape, and a maximum depth for recursive scraping.
+A versatile web scraping tool that allows you to extract links and content from websites.
 
 ## Features
 
-- Scrape links from a specified URL
-- Recursively follow links found on the initial page, scraping links from subsequent pages
-- User-configurable settings for:
-  - Maximum number of links to scrape (default: 10)
-  - Maximum depth of recursion (default: 2)
-- Clean and intuitive GUI interface
-- Real-time status updates
-- Display of scraped links in a scrollable text area
-
-## Requirements
-
-- Python 3.8+
-- BeautifulSoup4 (for HTML parsing)
-- Requests (for HTTP requests)
-- Tkinter (for the GUI)
+- Scrape links from a starting URL with configurable depth
+- Extract and save text content from web pages
+- Filter links by domain (stay on same website)
+- Highlight specific keywords in the extracted content
+- Rate limiting to avoid overwhelming servers
+- Respect robots.txt rules
+- Progress tracking with visual feedback
+- Both GUI and command-line interfaces
 
 ## Installation
 
-1. Clone or download this repository
-2. Ensure you have Python 3.8+ installed with Tkinter support
-   - On Windows: Tkinter is usually included with Python
-   - On macOS: You may need to install it separately:
-     ```
-     brew install python-tk
-     ```
-   - On Ubuntu/Debian Linux:
-     ```
-     sudo apt-get install python3-tk
-     ```
-3. Create a virtual environment (optional but recommended):
-```
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-4. Install dependencies:
-```
-pip install beautifulsoup4 requests
-```
+### Requirements
+- Python 3.8+
+- Required Python packages: beautifulsoup4, requests, python-dotenv, tqdm, colorama, validators
+
+### Setup
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/web-link-scraper.git
+   cd web-link-scraper
+   ```
+
+2. Create and activate a virtual environment (recommended):
+   ```
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+3. Install the required packages:
+   ```
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 
-### Launcher Script (Recommended)
+### GUI Interface
 
-The easiest way to use the tool is with the launcher script:
+To use the graphical user interface:
 
 ```
-python run.py              # Launches the GUI by default
-python run.py --cli [URL] [options]  # Launches the CLI with arguments
+python run_scraper_ui.py
 ```
 
-If Tkinter is not installed, the launcher will automatically suggest using the CLI version.
+The GUI provides the following options:
+- Enter the URL to scrape
+- Set the maximum number of links to scrape
+- Set the crawling depth
+- Configure rate limiting between requests
+- Add keywords to highlight in content
+- Toggle same-domain filtering
+- Enable/disable robots.txt compliance
+- Extract and save content
 
-### GUI Application
+### Command-Line Interface
 
-1. Run the GUI application:
-```
-python main.py
-```
-2. Enter a URL to scrape (must include `http://` or `https://`)
-3. Set the maximum number of links to scrape (default: 10)
-4. Set the maximum depth of recursion (default: 2)
-5. Click the "Scrape Links" button
-6. View the results in the scrollable text area
-
-### Command Line Interface
-
-For users who prefer a command-line interface or don't have Tkinter installed:
+To use the command-line interface:
 
 ```
 python cli.py [URL] [options]
 ```
 
 Options:
-- `-m, --max-links`: Maximum number of links to scrape (default: 10)
-- `-d, --max-depth`: Maximum depth of recursion (default: 2)
-- `-o, --output`: Output file to save the links (optional)
+- `-o, --output FILE`: Output file (default: scraped_content.txt)
+- `-m, --max-links N`: Maximum number of links to scrape (default: 10)
+- `-d, --max-depth N`: Maximum depth of recursion (default: 1)
+- `-r, --rate-limit N`: Minimum time between requests in seconds (default: 1.0)
+- `-s, --same-domain`: Only follow links from the same domain
+- `-k, --keywords LIST`: Comma-separated list of keywords to highlight in content
+- `--no-robots`: Disable robots.txt compliance
+- `-v, --verbose`: Enable verbose output
 
 Example:
 ```
-python cli.py https://example.com -m 20 -d 3 -o results.txt
+python cli.py https://example.com -m 20 -d 2 -s -k "example,test,demo"
 ```
 
-## Project Structure
+## Library Usage
 
-- `run.py`: Launcher script to choose between GUI and CLI
-- `main.py`: GUI implementation 
-- `cli.py`: Command-line interface
-- `scraper.py`: Web scraping logic (core functionality)
-- `test_scraper.py`: Simple test script to verify scraper functionality
-- `__init__.py`: Package initialization file
+You can also use the scraper as a library in your own Python code:
 
-## Limitations
+```python
+from scraper import Scraper
 
-- Some websites may block scraping requests
-- JavaScript-rendered content may not be accessible
-- The tool respects a website's robots.txt indirectly by using standard request headers
+# Create a scraper instance
+scraper = Scraper(
+    max_links=20,
+    rate_limit=1.0,
+    respect_robots=True
+)
+
+# Define a progress callback function (optional)
+def update_progress(current, total):
+    print(f"Progress: {current}/{total}")
+
+# Run the scraper
+links, content = scraper.scrape(
+    "https://example.com",
+    max_depth=2,
+    filter_same_domain=True,
+    keywords=["example", "test"],
+    progress_callback=update_progress
+)
+
+# Save the content to a file
+scraper.save_text_content("output.txt")
+```
+
+## Considerations
+
+- Be respectful of websites you scrape. Check the site's terms of service before scraping.
+- Use rate limiting to avoid overloading servers.
+- Respect robots.txt rules when possible.
+- Some websites may block scraping attempts.
+
+## Examples
+
+### Basic Usage
+
+To scrape a website with default settings:
+
+```python
+from scraper import Scraper
+
+scraper = Scraper()
+links, content = scraper.scrape("https://example.com")
+scraper.save_text_content("example_content.txt")
+```
+
+### Advanced Usage
+
+To scrape with custom settings:
+
+```python
+from scraper import Scraper
+
+scraper = Scraper(max_links=50, rate_limit=2.0)
+links, content = scraper.scrape(
+    "https://example.com",
+    max_depth=3,
+    filter_same_domain=True,
+    keywords=["important", "keyword"]
+)
+scraper.save_text_content("example_content.txt")
+```
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is open-source and available for personal and educational use.
-
-## Disclaimer
-
-Web scraping should be done responsibly and ethically. Always check a website's terms of service before scraping, and do not overload servers with too many requests in a short period.
+This project is licensed under the MIT License - see the LICENSE file for details.
