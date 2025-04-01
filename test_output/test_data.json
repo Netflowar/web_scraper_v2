@@ -1,0 +1,26 @@
+{
+  "https://example.com/docs": {
+    "url": "https://example.com/docs",
+    "title": "Example Documentation",
+    "headings": [
+      {
+        "level": 1,
+        "text": "Example",
+        "id": "example"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "python",
+        "content": "print(\"Hello\")"
+      }
+    ],
+    "toc": [
+      {
+        "text": "Introduction",
+        "href": "#intro"
+      }
+    ],
+    "content": "This is some example documentation content."
+  }
+}

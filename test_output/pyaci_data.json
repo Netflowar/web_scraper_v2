@@ -1,0 +1,227 @@
+{
+  "https://pyaci.readthedocs.io/en/latest/": {
+    "url": "https://pyaci.readthedocs.io/en/latest/",
+    "title": "PyACI Documentation \u2014 PyACI 1.0 documentation",
+    "headings": [
+      {
+        "level": 1,
+        "text": "PyACI Documentation\u00b6",
+        "id": ""
+      },
+      {
+        "level": 1,
+        "text": "Indices and Tables\u00b6",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "Table Of Contents",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "Related Topics",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "This Page",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "Quick search",
+        "id": ""
+      }
+    ],
+    "code_blocks": [],
+    "toc": [],
+    "content": "PyACI Documentation\u00b6PyACI provides Python bindings for Cisco Application Centric\nInfrastructure REST API.IntroductionGoalsStatusLicenseConstructsNodeAPI ObjectsMethodsManaged ObjectsManaged Object IteratorsInstallationPackage InstallationMeta GenerationIndices and Tables\u00b6IndexModule IndexSearch Page\n\nPyACI Documentation\u00b6PyACI provides Python bindings for Cisco Application Centric\nInfrastructure REST API.IntroductionGoalsStatusLicenseConstructsNodeAPI ObjectsMethodsManaged ObjectsManaged Object IteratorsInstallationPackage InstallationMeta GenerationIndices and Tables\u00b6IndexModule IndexSearch Page\n\nPyACI Documentation\u00b6PyACI provides Python bindings for Cisco Application Centric\nInfrastructure REST API.IntroductionGoalsStatusLicenseConstructsNodeAPI ObjectsMethodsManaged ObjectsManaged Object IteratorsInstallationPackage InstallationMeta GenerationIndices and Tables\u00b6IndexModule IndexSearch Page\n\nPyACI Documentation\u00b6PyACI provides Python bindings for Cisco Application Centric\nInfrastructure REST API.IntroductionGoalsStatusLicenseConstructsNodeAPI ObjectsMethodsManaged ObjectsManaged Object IteratorsInstallationPackage InstallationMeta Generation\n\nPyACI provides Python bindings for Cisco Application Centric\nInfrastructure REST API.\n\nIntroductionGoalsStatusLicenseConstructsNodeAPI ObjectsMethodsManaged ObjectsManaged Object IteratorsInstallationPackage InstallationMeta Generation\n\nIndices and Tables\u00b6IndexModule IndexSearch Page\n\nTable Of ContentsPyACI DocumentationIndices and TablesRelated TopicsDocumentation overviewNext:IntroductionThis PageShow SourceQuick search\n\nTable Of ContentsPyACI DocumentationIndices and TablesRelated TopicsDocumentation overviewNext:IntroductionThis PageShow SourceQuick search\n\nRelated TopicsDocumentation overviewNext:Introduction\n\nThis PageShow Source\n\nQuick search"
+  },
+  "https://pyaci.readthedocs.io/en/latest/#pyaci-documentation": {
+    "url": "https://pyaci.readthedocs.io/en/latest/#pyaci-documentation",
+    "title": "PyACI Documentation \u2014 PyACI 1.0 documentation",
+    "headings": [
+      {
+        "level": 1,
+        "text": "PyACI Documentation\u00b6",
+        "id": ""
+      },
+      {
+        "level": 1,
+        "text": "Indices and Tables\u00b6",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "Table Of Contents",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "Related Topics",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "This Page",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "Quick search",
+        "id": ""
+      }
+    ],
+    "code_blocks": [],
+    "toc": [],
+    "content": "PyACI Documentation\u00b6PyACI provides Python bindings for Cisco Application Centric\nInfrastructure REST API.IntroductionGoalsStatusLicenseConstructsNodeAPI ObjectsMethodsManaged ObjectsManaged Object IteratorsInstallationPackage InstallationMeta GenerationIndices and Tables\u00b6IndexModule IndexSearch Page\n\nPyACI Documentation\u00b6PyACI provides Python bindings for Cisco Application Centric\nInfrastructure REST API.IntroductionGoalsStatusLicenseConstructsNodeAPI ObjectsMethodsManaged ObjectsManaged Object IteratorsInstallationPackage InstallationMeta GenerationIndices and Tables\u00b6IndexModule IndexSearch Page\n\nPyACI Documentation\u00b6PyACI provides Python bindings for Cisco Application Centric\nInfrastructure REST API.IntroductionGoalsStatusLicenseConstructsNodeAPI ObjectsMethodsManaged ObjectsManaged Object IteratorsInstallationPackage InstallationMeta GenerationIndices and Tables\u00b6IndexModule IndexSearch Page\n\nPyACI Documentation\u00b6PyACI provides Python bindings for Cisco Application Centric\nInfrastructure REST API.IntroductionGoalsStatusLicenseConstructsNodeAPI ObjectsMethodsManaged ObjectsManaged Object IteratorsInstallationPackage InstallationMeta Generation\n\nPyACI provides Python bindings for Cisco Application Centric\nInfrastructure REST API.\n\nIntroductionGoalsStatusLicenseConstructsNodeAPI ObjectsMethodsManaged ObjectsManaged Object IteratorsInstallationPackage InstallationMeta Generation\n\nIndices and Tables\u00b6IndexModule IndexSearch Page\n\nTable Of ContentsPyACI DocumentationIndices and TablesRelated TopicsDocumentation overviewNext:IntroductionThis PageShow SourceQuick search\n\nTable Of ContentsPyACI DocumentationIndices and TablesRelated TopicsDocumentation overviewNext:IntroductionThis PageShow SourceQuick search\n\nRelated TopicsDocumentation overviewNext:Introduction\n\nThis PageShow Source\n\nQuick search"
+  },
+  "https://pyaci.readthedocs.io/en/latest/user/introduction.html": {
+    "url": "https://pyaci.readthedocs.io/en/latest/user/introduction.html",
+    "title": "Introduction \u2014 PyACI 1.0 documentation",
+    "headings": [
+      {
+        "level": 1,
+        "text": "Introduction\u00b6",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "Goals\u00b6",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "Status\u00b6",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "License\u00b6",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "Table Of Contents",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "Related Topics",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "This Page",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "Quick search",
+        "id": ""
+      }
+    ],
+    "code_blocks": [],
+    "toc": [],
+    "content": "Introduction\u00b6Goals\u00b6PyACI was designed with the following goals in mind.Provide a set of minimal, intuitive, and consistent API constructs.Provide a simple Python abstraction over ACI REST API, and managed objects.Option to use XML or JSON payload.Status\u00b6PyACI is not the official Python bindings for CISCO ACI. It is\nprovided as an alternative. For an official Python API, please look at\nCobra.PyACI is in a very early stage of specification. The API could change\nin minor ways based on the early adopters\u2019 comments. If you are using\nit, please be prepared to adapt your code accordingly.License\u00b6Copyright 2015 Cisco Systems, Inc.Licensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nIntroduction\u00b6Goals\u00b6PyACI was designed with the following goals in mind.Provide a set of minimal, intuitive, and consistent API constructs.Provide a simple Python abstraction over ACI REST API, and managed objects.Option to use XML or JSON payload.Status\u00b6PyACI is not the official Python bindings for CISCO ACI. It is\nprovided as an alternative. For an official Python API, please look at\nCobra.PyACI is in a very early stage of specification. The API could change\nin minor ways based on the early adopters\u2019 comments. If you are using\nit, please be prepared to adapt your code accordingly.License\u00b6Copyright 2015 Cisco Systems, Inc.Licensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nIntroduction\u00b6Goals\u00b6PyACI was designed with the following goals in mind.Provide a set of minimal, intuitive, and consistent API constructs.Provide a simple Python abstraction over ACI REST API, and managed objects.Option to use XML or JSON payload.Status\u00b6PyACI is not the official Python bindings for CISCO ACI. It is\nprovided as an alternative. For an official Python API, please look at\nCobra.PyACI is in a very early stage of specification. The API could change\nin minor ways based on the early adopters\u2019 comments. If you are using\nit, please be prepared to adapt your code accordingly.License\u00b6Copyright 2015 Cisco Systems, Inc.Licensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nIntroduction\u00b6Goals\u00b6PyACI was designed with the following goals in mind.Provide a set of minimal, intuitive, and consistent API constructs.Provide a simple Python abstraction over ACI REST API, and managed objects.Option to use XML or JSON payload.Status\u00b6PyACI is not the official Python bindings for CISCO ACI. It is\nprovided as an alternative. For an official Python API, please look at\nCobra.PyACI is in a very early stage of specification. The API could change\nin minor ways based on the early adopters\u2019 comments. If you are using\nit, please be prepared to adapt your code accordingly.License\u00b6Copyright 2015 Cisco Systems, Inc.Licensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nGoals\u00b6PyACI was designed with the following goals in mind.Provide a set of minimal, intuitive, and consistent API constructs.Provide a simple Python abstraction over ACI REST API, and managed objects.Option to use XML or JSON payload.\n\nPyACI was designed with the following goals in mind.\n\nStatus\u00b6PyACI is not the official Python bindings for CISCO ACI. It is\nprovided as an alternative. For an official Python API, please look at\nCobra.PyACI is in a very early stage of specification. The API could change\nin minor ways based on the early adopters\u2019 comments. If you are using\nit, please be prepared to adapt your code accordingly.\n\nPyACI is not the official Python bindings for CISCO ACI. It is\nprovided as an alternative. For an official Python API, please look at\nCobra.\n\nPyACI is in a very early stage of specification. The API could change\nin minor ways based on the early adopters\u2019 comments. If you are using\nit, please be prepared to adapt your code accordingly.\n\nLicense\u00b6Copyright 2015 Cisco Systems, Inc.Licensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nCopyright 2015 Cisco Systems, Inc.\n\nLicensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nLicensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nTable Of ContentsIntroductionGoalsStatusLicenseRelated TopicsDocumentation overviewPrevious:PyACI DocumentationNext:ConstructsThis PageShow SourceQuick search\n\nTable Of ContentsIntroductionGoalsStatusLicenseRelated TopicsDocumentation overviewPrevious:PyACI DocumentationNext:ConstructsThis PageShow SourceQuick search\n\nRelated TopicsDocumentation overviewPrevious:PyACI DocumentationNext:Constructs\n\nThis PageShow Source\n\nQuick search"
+  },
+  "https://pyaci.readthedocs.io/en/latest/user/introduction.html#goals": {
+    "url": "https://pyaci.readthedocs.io/en/latest/user/introduction.html#goals",
+    "title": "Introduction \u2014 PyACI 1.0 documentation",
+    "headings": [
+      {
+        "level": 1,
+        "text": "Introduction\u00b6",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "Goals\u00b6",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "Status\u00b6",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "License\u00b6",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "Table Of Contents",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "Related Topics",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "This Page",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "Quick search",
+        "id": ""
+      }
+    ],
+    "code_blocks": [],
+    "toc": [],
+    "content": "Introduction\u00b6Goals\u00b6PyACI was designed with the following goals in mind.Provide a set of minimal, intuitive, and consistent API constructs.Provide a simple Python abstraction over ACI REST API, and managed objects.Option to use XML or JSON payload.Status\u00b6PyACI is not the official Python bindings for CISCO ACI. It is\nprovided as an alternative. For an official Python API, please look at\nCobra.PyACI is in a very early stage of specification. The API could change\nin minor ways based on the early adopters\u2019 comments. If you are using\nit, please be prepared to adapt your code accordingly.License\u00b6Copyright 2015 Cisco Systems, Inc.Licensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nIntroduction\u00b6Goals\u00b6PyACI was designed with the following goals in mind.Provide a set of minimal, intuitive, and consistent API constructs.Provide a simple Python abstraction over ACI REST API, and managed objects.Option to use XML or JSON payload.Status\u00b6PyACI is not the official Python bindings for CISCO ACI. It is\nprovided as an alternative. For an official Python API, please look at\nCobra.PyACI is in a very early stage of specification. The API could change\nin minor ways based on the early adopters\u2019 comments. If you are using\nit, please be prepared to adapt your code accordingly.License\u00b6Copyright 2015 Cisco Systems, Inc.Licensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nIntroduction\u00b6Goals\u00b6PyACI was designed with the following goals in mind.Provide a set of minimal, intuitive, and consistent API constructs.Provide a simple Python abstraction over ACI REST API, and managed objects.Option to use XML or JSON payload.Status\u00b6PyACI is not the official Python bindings for CISCO ACI. It is\nprovided as an alternative. For an official Python API, please look at\nCobra.PyACI is in a very early stage of specification. The API could change\nin minor ways based on the early adopters\u2019 comments. If you are using\nit, please be prepared to adapt your code accordingly.License\u00b6Copyright 2015 Cisco Systems, Inc.Licensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nIntroduction\u00b6Goals\u00b6PyACI was designed with the following goals in mind.Provide a set of minimal, intuitive, and consistent API constructs.Provide a simple Python abstraction over ACI REST API, and managed objects.Option to use XML or JSON payload.Status\u00b6PyACI is not the official Python bindings for CISCO ACI. It is\nprovided as an alternative. For an official Python API, please look at\nCobra.PyACI is in a very early stage of specification. The API could change\nin minor ways based on the early adopters\u2019 comments. If you are using\nit, please be prepared to adapt your code accordingly.License\u00b6Copyright 2015 Cisco Systems, Inc.Licensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nGoals\u00b6PyACI was designed with the following goals in mind.Provide a set of minimal, intuitive, and consistent API constructs.Provide a simple Python abstraction over ACI REST API, and managed objects.Option to use XML or JSON payload.\n\nPyACI was designed with the following goals in mind.\n\nStatus\u00b6PyACI is not the official Python bindings for CISCO ACI. It is\nprovided as an alternative. For an official Python API, please look at\nCobra.PyACI is in a very early stage of specification. The API could change\nin minor ways based on the early adopters\u2019 comments. If you are using\nit, please be prepared to adapt your code accordingly.\n\nPyACI is not the official Python bindings for CISCO ACI. It is\nprovided as an alternative. For an official Python API, please look at\nCobra.\n\nPyACI is in a very early stage of specification. The API could change\nin minor ways based on the early adopters\u2019 comments. If you are using\nit, please be prepared to adapt your code accordingly.\n\nLicense\u00b6Copyright 2015 Cisco Systems, Inc.Licensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nCopyright 2015 Cisco Systems, Inc.\n\nLicensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nLicensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nTable Of ContentsIntroductionGoalsStatusLicenseRelated TopicsDocumentation overviewPrevious:PyACI DocumentationNext:ConstructsThis PageShow SourceQuick search\n\nTable Of ContentsIntroductionGoalsStatusLicenseRelated TopicsDocumentation overviewPrevious:PyACI DocumentationNext:ConstructsThis PageShow SourceQuick search\n\nRelated TopicsDocumentation overviewPrevious:PyACI DocumentationNext:Constructs\n\nThis PageShow Source\n\nQuick search"
+  },
+  "https://pyaci.readthedocs.io/en/latest/user/introduction.html#status": {
+    "url": "https://pyaci.readthedocs.io/en/latest/user/introduction.html#status",
+    "title": "Introduction \u2014 PyACI 1.0 documentation",
+    "headings": [
+      {
+        "level": 1,
+        "text": "Introduction\u00b6",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "Goals\u00b6",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "Status\u00b6",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "License\u00b6",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "Table Of Contents",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "Related Topics",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "This Page",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "Quick search",
+        "id": ""
+      }
+    ],
+    "code_blocks": [],
+    "toc": [],
+    "content": "Introduction\u00b6Goals\u00b6PyACI was designed with the following goals in mind.Provide a set of minimal, intuitive, and consistent API constructs.Provide a simple Python abstraction over ACI REST API, and managed objects.Option to use XML or JSON payload.Status\u00b6PyACI is not the official Python bindings for CISCO ACI. It is\nprovided as an alternative. For an official Python API, please look at\nCobra.PyACI is in a very early stage of specification. The API could change\nin minor ways based on the early adopters\u2019 comments. If you are using\nit, please be prepared to adapt your code accordingly.License\u00b6Copyright 2015 Cisco Systems, Inc.Licensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nIntroduction\u00b6Goals\u00b6PyACI was designed with the following goals in mind.Provide a set of minimal, intuitive, and consistent API constructs.Provide a simple Python abstraction over ACI REST API, and managed objects.Option to use XML or JSON payload.Status\u00b6PyACI is not the official Python bindings for CISCO ACI. It is\nprovided as an alternative. For an official Python API, please look at\nCobra.PyACI is in a very early stage of specification. The API could change\nin minor ways based on the early adopters\u2019 comments. If you are using\nit, please be prepared to adapt your code accordingly.License\u00b6Copyright 2015 Cisco Systems, Inc.Licensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nIntroduction\u00b6Goals\u00b6PyACI was designed with the following goals in mind.Provide a set of minimal, intuitive, and consistent API constructs.Provide a simple Python abstraction over ACI REST API, and managed objects.Option to use XML or JSON payload.Status\u00b6PyACI is not the official Python bindings for CISCO ACI. It is\nprovided as an alternative. For an official Python API, please look at\nCobra.PyACI is in a very early stage of specification. The API could change\nin minor ways based on the early adopters\u2019 comments. If you are using\nit, please be prepared to adapt your code accordingly.License\u00b6Copyright 2015 Cisco Systems, Inc.Licensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nIntroduction\u00b6Goals\u00b6PyACI was designed with the following goals in mind.Provide a set of minimal, intuitive, and consistent API constructs.Provide a simple Python abstraction over ACI REST API, and managed objects.Option to use XML or JSON payload.Status\u00b6PyACI is not the official Python bindings for CISCO ACI. It is\nprovided as an alternative. For an official Python API, please look at\nCobra.PyACI is in a very early stage of specification. The API could change\nin minor ways based on the early adopters\u2019 comments. If you are using\nit, please be prepared to adapt your code accordingly.License\u00b6Copyright 2015 Cisco Systems, Inc.Licensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nGoals\u00b6PyACI was designed with the following goals in mind.Provide a set of minimal, intuitive, and consistent API constructs.Provide a simple Python abstraction over ACI REST API, and managed objects.Option to use XML or JSON payload.\n\nPyACI was designed with the following goals in mind.\n\nStatus\u00b6PyACI is not the official Python bindings for CISCO ACI. It is\nprovided as an alternative. For an official Python API, please look at\nCobra.PyACI is in a very early stage of specification. The API could change\nin minor ways based on the early adopters\u2019 comments. If you are using\nit, please be prepared to adapt your code accordingly.\n\nPyACI is not the official Python bindings for CISCO ACI. It is\nprovided as an alternative. For an official Python API, please look at\nCobra.\n\nPyACI is in a very early stage of specification. The API could change\nin minor ways based on the early adopters\u2019 comments. If you are using\nit, please be prepared to adapt your code accordingly.\n\nLicense\u00b6Copyright 2015 Cisco Systems, Inc.Licensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nCopyright 2015 Cisco Systems, Inc.\n\nLicensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nLicensed under the Apache License, Version 2.0 (the \u201cLicense\u201d);\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \u201cAS IS\u201d BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n\nTable Of ContentsIntroductionGoalsStatusLicenseRelated TopicsDocumentation overviewPrevious:PyACI DocumentationNext:ConstructsThis PageShow SourceQuick search\n\nTable Of ContentsIntroductionGoalsStatusLicenseRelated TopicsDocumentation overviewPrevious:PyACI DocumentationNext:ConstructsThis PageShow SourceQuick search\n\nRelated TopicsDocumentation overviewPrevious:PyACI DocumentationNext:Constructs\n\nThis PageShow Source\n\nQuick search"
+  }
+}
